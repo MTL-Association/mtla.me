@@ -6,7 +6,7 @@ ACCOUNTS = [
 [DOCUMENTATION]
 ORG_NAME = "Montelibero Association"
 ORG_URL = "https://mtla.me/"
-#ORG_LOGO = "https://mtla.me/stellar-logo.png"
+ORG_LOGO = "https://mtla.me/images/stellar-logo.png"
 ORG_DESCRIPTION = "DAO related to Montelibero movement."
 ORG_PHYSICAL_ADDRESS = "Montenegro"
 ORG_OFFICIAL_EMAIL = "common@mtla.me"
@@ -16,7 +16,7 @@ code = "MTLAP"
 issuer = "GCNVDZIHGX473FEI7IXCUAEXUJ4BGCKEMHF36VYP5EMS7PX2QBLAMTLA"
 is_asset_anchored = false
 desc = "The asset is membership confirmation for individuals."
-#image = "https://mtla.me/stellar-logo-mtlap.png"
+image = "https://mtla.me/images/stellar-logo-mtlap.png"
 display_decimals = 0
 
 [[CURRENCIES]]
@@ -24,5 +24,5 @@ code = "MTLAC"
 issuer = "GCNVDZIHGX473FEI7IXCUAEXUJ4BGCKEMHF36VYP5EMS7PX2QBLAMTLA"
 is_asset_anchored = false
 desc = "The asset is membership confirmation for organizations."
-#image = "https://mtla.me/stellar-logo-mtlap.png"
+image = "https://mtla.me/images/stellar-logo-mtlac.png"
 display_decimals = 0
