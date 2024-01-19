@@ -1,5 +1,2 @@
 User-agent: *
 Disallow:
-
-User-Agent: ia_archiver
-Disallow: /
