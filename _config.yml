@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 include: [".well-known", "./account.html"]
 
-repository: MTL-Association/mtla.github.io
+repository: MTL-Association/mtla.me
 baseurl: ""
 url: "https://mtla.me"
 
@@ -11,6 +11,8 @@ encoding: "utf-8"
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
+jekyll:
+  version: ~> 4.3.2
 
 # jekyll-multiple-languages-plugin settings:
 languages: ["en", "eo", "ru", "uk"]
